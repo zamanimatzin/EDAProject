@@ -24,6 +24,5 @@ The dataset contains the following fields:
 
 ## Techniques used
 1. Data cleaning and tranformation
-2. Data Mining
-3. EDA
-4. Summarize Finding
+2. EDA
+3. Summarize Finding
